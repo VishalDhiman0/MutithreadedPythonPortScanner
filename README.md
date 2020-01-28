@@ -2,7 +2,7 @@
 
 ## Installation and Usage
 
-no need for installation just python3.x is needed
+Just python3.x required
 simply clone or download code from this repostory
 
 ```bash
